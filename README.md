@@ -17,6 +17,9 @@ This project requires MySQL to be running locally. If you don't already have it 
 
 `npx sequelize db:migrate` >> this will create the table and rows in your existing database.
 
+### Run
+`npm run dev`
+
 ### Tests
 `npm run test` will kick of a suite of Mocha/Chai tests and report back pass/fail and code coverage.
 
