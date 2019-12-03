@@ -1,4 +1,4 @@
-#express-events
+# express-events
 This is a simple Express service to create new chat room events and then fetch them by time intervals. You can also fetch counts of how many of each type of event took place in a given period of time (still WIP)
 
 MySQL is used to store event data and is required to run this service.
